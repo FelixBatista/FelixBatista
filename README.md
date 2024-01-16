@@ -4,7 +4,7 @@ I'm a maker interested on developing things: all sort of things - from woodworki
 I use my github to save my work while bulding stuff.
 
 - 🛠 I graduated on Mechatonics
-- 💼 I’m currently working on BMW as a Senior Software Engineer
+- 💼 I’m currently working on Sebratec as a Product Manager
 
 Let's talk about anything:
 - linkedin: https://www.linkedin.com/in/felixbatista/
